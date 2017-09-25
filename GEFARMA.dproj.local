@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/05/04 10:39:00.000.220,=C:\Users\LAB\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/04 10:41:43.000.366,=C:\Users\LAB\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/04 10:42:52.000.605,=C:\Users\LAB\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/04 17:53:21.000.670,=C:\Users\LAB\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/26 20:06:20.000.839,=C:\Users\LAB\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/30 09:32:32.000.642,=C:\Users\LAB\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/30 09:36:41.000.268,=C:\Users\LAB\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/25 08:31:00.447,=C:\Users\LAB\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/25 08:34:23.780,C:\FARMA\Tela_Principal.dfm=C:\Users\LAB\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/09/25 08:34:23.780,C:\FARMA\Tela_Principal.pas=C:\Users\LAB\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/25 08:34:31.862,C:\FARMA\GEFARMA.dproj=C:\Users\LAB\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/09/25 08:38:31.264,=C:\FARMA\Unit2.pas</Transaction>
+    <Transaction>2017/09/25 08:55:34.237,C:\FARMA\Login.pas=C:\FARMA\Unit2.pas</Transaction>
+    <Transaction>2017/09/25 08:55:34.237,C:\FARMA\Login.dfm=C:\FARMA\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
